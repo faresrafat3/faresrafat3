@@ -3,7 +3,7 @@
 
 # 👋 مرحبًا، أنا فارس — Hi, I'm Fares
 
-**مطوّر Full-stack متخصص في تطبيقات الذكاء الاصطناعي وتكامل الـ LLMs** · **Full-stack developer specializing in AI integration and LLM-powered apps**
+**مطوّر Full-stack أعمل على تطبيقات الذكاء الاصطناعي وتكامل الـ LLMs** · **Full-stack developer working on AI integration and LLM-powered apps**
 
 📍 القاهرة، مصر · Cairo, Egypt
 🕐 Africa/Cairo (UTC+2)
@@ -82,9 +82,9 @@
 
 ---
 
-## 💼 Available for freelance work — متاح لمشاريع الفري لانس
+## 💼 Preparing for freelance work — أستعد للفري لانس
 
-I'm currently building my freelance presence on **Mostaql** (مستقل). I focus on:
+I'm building my freelance presence on **Mostaql** (مستقل). I focus on:
 
 - 🤖 **AI integration** for existing products (chatbots, RAG, document Q&A)
 - 🌐 **Full-stack web apps** with modern stacks (Next.js + Supabase)
