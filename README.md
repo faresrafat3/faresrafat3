@@ -1,78 +1,141 @@
-<!-- GitHub Profile README for @faresrafat3 -->
-<!-- Bilingual: Arabic + English — audience includes both Arab and international clients -->
+# Fares Rafat — AI Systems · LLM Agents · Full-Stack
 
-# 👋 مرحبًا، أنا فارس — Hi, I'm Fares
+**I design and ship LLM agent systems, RAG products, and bilingual AI tooling — from research extraction to working code.**
 
-**مطوّر Full-stack أعمل على تطبيقات الذكاء الاصطناعي وتكامل الـ LLMs** · **Full-stack developer working on AI integration and LLM-powered apps**
+📍 Cairo, Egypt · 🌐 Arabic (native) · English (working) · Open to freelance & research collaboration
 
-📍 القاهرة، مصر · Cairo, Egypt
-🕐 Africa/Cairo (UTC+2)
-🌐 عربي (native) · English (working)
+[![GitHub](https://img.shields.io/badge/GitHub-faresrafat3-181717?logo=github)](https://github.com/faresrafat3)
+[![Python](https://img.shields.io/badge/Python-AI%20%2F%20Agents-3776AB?logo=python&logoColor=white)](https://github.com/faresrafat3?tab=repositories&q=&type=&language=python)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Next.js%20SaaS-3178C6?logo=typescript&logoColor=white)](https://github.com/faresrafat3/rag-saas-starter)
 
 ---
 
-## 🚀 ماذا أفعل — What I do
+## In 30 seconds
 
-| 🌍 بالعربي | 🌐 In English |
+| | |
 |---|---|
-| 🤖 تطبيقات ذكاء اصطناعي (RAG، شات بوتس، تكامل LLMs) | 🤖 AI-powered applications (RAG, chatbots, LLM integration) |
-| 🌐 تطبيقات ويب Full-stack (Next.js, React, Node.js) | 🌐 Full-stack web apps (Next.js, React, Node.js) |
-| 📊 لوحات تحكم وتصور بيانات | 📊 Dashboards and data visualization |
-| 🔧 سكربتات أتمتة و APIs | 🔧 Automation scripts and APIs |
-| 🔬 أبحاث في معالجة اللغات السامية (مشروع جانبي) | 🔬 Research on Semitic NLP (side project) |
+| **Who** | Full-stack + AI engineer building **agent pipelines**, **RAG apps**, and **evidence-based AI tooling** |
+| **Best at** | Turning papers into auditable systems · bilingual Arabic/English products · cost-aware LLM architecture |
+| **Hire me for** | AI integration (chatbots, RAG, agents) · Next.js SaaS · research-to-prototype packages |
+| **Collaborate on** | LLM agent evaluation · prompt/architecture extraction · Semitic NLP |
 
 ---
 
-## 🛠️ Tech Stack
-
-**Frontend**: `Next.js 16` · `React` · `TypeScript` · `Tailwind CSS` · `shadcn/ui`
-
-**Backend**: `Node.js` · `Python` · `FastAPI`
-
-**Database**: `PostgreSQL` · `Supabase` · `MongoDB`
-
-**AI / ML**: `OpenAI API` · `LangChain` · `HuggingFace` · `RAG` · `embeddings`
-
-**DevOps**: `Vercel` · `Docker` · `GitHub Actions`
-
----
-
-## 🌟 Featured Projects
-
-<!-- Update this section as portfolio projects are built (Week 2-4 of freelance plan) -->
+## Featured projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔬 <a href="https://github.com/faresrafat3/semitic-scattering-law">Semitic Scattering Law</a></h3>
-      <p>Exploratory research on how root-scatter affects neural language model performance in Semitic languages (Arabic, Hebrew, Amharic). Includes reproduction script for empirical plots.</p>
-      <p><code>Python</code> · <code>NLP</code> · <code>Research</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔀 <a href="https://github.com/faresrafat3/semitic-router">Semitic Router</a></h3>
-      <p>Hybrid neural/symbolic router that uses the Scattering Degree to decide between a neural model and a symbolic morphological engine for Semitic word correction.</p>
-      <p><code>Python</code> · <code>NLP</code> · <code>Hybrid AI</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 <a href="https://github.com/faresrafat3/ai-cost-library">AI Cost Library</a></h3>
-      <p>Bilingual (Arabic/English) evidence-based library of methods for reducing AI inference and training costs. Includes scoring system, evidence ledger, and no-hype policy.</p>
-      <p><code>Python</code> · <code>AI</code> · <code>Bilingual</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌿 <a href="https://github.com/faresrafat3/hayy-correct">Hayy — Arabic Correction</a></h3>
-      <p>Experimental length-aware seq2seq model for Arabic morphological correction. Pre-alpha research project, related to the Scattering Law.</p>
-      <p><code>Python</code> · <code>NLP</code> · <code>Research</code></p>
-    </td>
-  </tr>
-</table>
+<tr>
+<td width="50%" valign="top">
 
-> 🚧 **More portfolio projects coming soon** — AI-powered apps, dashboards, and SaaS starters are in development.
+### 🧠 [Epistemic Forge](https://github.com/faresrafat3/epistemic-forge)
+**Product** · Python · MIT  
+
+Claim lattices for research, philosophy, freelancing & Kaggle — with a **Toulmin-anchored benchmark** (+~199% overall quality vs baseline Q&A on 10 cases).
+
+`agents` · `research` · `benchmark` · `CLI`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ [ARSENAL](https://github.com/faresrafat3/arsenal-unified-master-pipeline)
+**Architecture** · L0–L6 master pipeline  
+
+Unifies **10** agent systems (APE, OPRO, ToT, LATS, Reflexion, Voyager, Meta-Prompting, Self-Refine, Prompt Report, AI Scientist v2) into one operational design.
+
+`llm-agents` · `prompt-engineering` · `mermaid`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 [RAG SaaS Starter](https://github.com/faresrafat3/rag-saas-starter)
+**Product** · Next.js · TypeScript · MIT  
+
+Production-ready RAG chatbot starter with **Arabic/RTL**, multi-document chat, streaming, and modern SaaS stack.
+
+`nextjs` · `rag` · `arabic` · `saas`
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 [AI Cost Library](https://github.com/faresrafat3/ai-cost-library)
+**Knowledge base** · Bilingual AR/EN  
+
+60+ AI cost-reduction techniques classified by **evidence strength** — FinOps for LLM inference & training.
+
+`finops` · `llm` · `arabic` · `cost-optimization`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧬 [GENESIS](https://github.com/faresrafat3/GENESIS)
+**Research prototype** · Python  
+
+Harness-first cognitive layer testing **concept formation** vs retrieval-only, and **cognitive economy** (tiered routing) vs “always use the biggest model.”
+
+`agents` · `evaluation` · `research`
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 [LLM Agent Extractions](https://github.com/faresrafat3/llm-agent-research-extractions)
+**Research archive** · 10 systems  
+
+Deep prompt/logic/flow/Mermaid extractions for Reflexion, Self-Refine, LATS, APE, OPRO, Voyager, ToT, Meta-Prompting, Prompt Report, AI Scientist v2.
+
+`prompt-extraction` · `open-source-audit`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## What I build
+
+- **LLM agent systems** — routing, tree search, self-refine, memory, evaluation harnesses  
+- **RAG & chat products** — bilingual Arabic/English, production Next.js starters  
+- **Research-to-code pipelines** — paper extraction, claim packaging, reproducible benchmarks  
+- **Cost-aware AI** — technique libraries and economy-aware model routing  
+
+**Stack:** Python · TypeScript · Next.js · React · FastAPI · PostgreSQL · LangChain · OpenAI/OpenRouter · Docker · Vercel  
+
+---
+
+## Research interests
+
+- LLM agent **architecture & evaluation** (scaffolding value, not just model scale)  
+- **Prompt optimization** and meta-prompt search (APE / OPRO family)  
+- **Cognitive economy** — when to spend premium inference vs cheaper tiers  
+- **Semitic NLP** — morphology, scattering, hybrid neural/symbolic routing ([scattering law](https://github.com/faresrafat3/semitic-scattering-law) · [router](https://github.com/faresrafat3/semitic-router))  
+- Argumentation structure for AI writing (**Toulmin** / claim lattices)
+
+---
+
+## How I work
+
+- **Honesty over hype** — claims backed by code, tests, or cited evidence  
+- **Ship + document** — every serious repo has README, structure, and clear limits  
+- **Bilingual by default** when the audience is Arabic + international  
+- **Open attribution** for papers and upstream code  
+
+---
+
+## Let’s work together
+
+I’m building a freelance practice (including **Mostaql**) and open to:
+
+1. **Freelance / contract** — RAG, agents, Next.js AI features, automation  
+2. **Collaboration** — agent eval, open-source audits, bilingual AI products  
+3. **Research discussion** — scaffolding, economy routing, Semitic NLP  
+
+→ GitHub: [@faresrafat3](https://github.com/faresrafat3)  
+→ Start a conversation via GitHub Issues on any public repo, or open a discussion on [epistemic-forge](https://github.com/faresrafat3/epistemic-forge) / [rag-saas-starter](https://github.com/faresrafat3/rag-saas-starter)
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faresrafat3&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -80,54 +143,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faresrafat3&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
----
-
-## 💼 Preparing for freelance work — أستعد للفري لانس
-
-I'm building my freelance presence on **Mostaql** (مستقل). I focus on:
-
-- 🤖 **AI integration** for existing products (chatbots, RAG, document Q&A)
-- 🌐 **Full-stack web apps** with modern stacks (Next.js + Supabase)
-- 🛠️ **Automation scripts** (Python, Playwright, API integrations)
-
-If you have a project in mind, let's talk.
-
----
-
-## 📫 Let's connect — تواصل معي
-
-| Platform | Link |
-|---|---|
-| 🐙 GitHub | You're already here — [@faresrafat3](https://github.com/faresrafat3) |
-| 💼 LinkedIn | _coming soon_ |
-| 🎯 Mostaql (مستقل) | _coming soon_ |
-| 📧 Email | _coming soon_ |
-
----
-
-## 📜 Principles I work by — مبادئ أعمل بها
-
-- ⚖️ **Honesty over hype** — I won't claim expertise I don't have. Every claim is backed by code or evidence.
-- 🧹 **Clean code + clean README** — every project ships with proper documentation.
-- ⏱️ **Realistic timelines** — I'd rather under-promise and over-deliver.
-- 🤝 **Open attribution** — when I build on others' open-source work, I credit them clearly.
-- 🌱 **Always learning** — I treat every project as a chance to deepen my craft.
-
----
-
-<details>
-<summary>📖 About my research side (click to expand)</summary>
-
-In parallel to my freelance work, I run a private research workspace exploring Semitic NLP — specifically how neural language models handle the root-and-pattern morphology of Arabic, Hebrew, and Amharic. The public repos above (`semitic-scattering-law`, `semitic-router`, `hayy-correct`) are the open slices of this research.
-
-I'm happy to discuss the research, but it's separate from my commercial work.
-
-</details>
-
----
-
 <p align="center">
-  <em>"إن الله يحب إذا عمل أحدكم عملًا أن يتقنه" — "God loves when one of you does a work, to do it well."</em>
-  <br/><br/>
-  ⭐️ From <a href="https://github.com/faresrafat3">@faresrafat3</a> · Built with care.
+  <em>Built with care — from Cairo to the open web.</em>
 </p>
