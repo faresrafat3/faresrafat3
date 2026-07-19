@@ -1,148 +1,92 @@
-# Fares Rafat — AI Systems · LLM Agents · Full-Stack
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fares%20Rafat&fontSize=60&fontAlignY=35&desc=AI%20Systems%20%C2%B7%20LLM%20Agents%20%C2%B7%20Full-Stack&descSize=20&descAlignY=55" />
+</div>
 
-**I design and ship LLM agent systems, RAG products, and bilingual AI tooling — from research extraction to working code.**
+<h3 align="center">
+  I design and ship LLM agent systems, RAG products, and bilingual AI tooling 🧠
+</h3>
 
-📍 Cairo, Egypt · 🌐 Arabic (native) · English (working) · Open to freelance & research collaboration
+<div align="center">
+  <a href="https://github.com/faresrafat3" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-faresrafat3-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://github.com/sponsors/faresrafat3" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor_Me-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" />
+  </a>
+  <a href="mailto:faresrafat3@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-faresrafat3-181717?logo=github)](https://github.com/faresrafat3)
-[![Python](https://img.shields.io/badge/Python-AI%20%2F%20Agents-3776AB?logo=python&logoColor=white)](https://github.com/faresrafat3?tab=repositories&q=&type=&language=python)
-[![TypeScript](https://img.shields.io/badge/TypeScript-Next.js%20SaaS-3178C6?logo=typescript&logoColor=white)](https://github.com/faresrafat3/rag-saas-starter)
+<br />
+
+### 🚀 About Me
+I am a Full-stack & AI Engineer focused on turning cutting-edge papers into auditable, open-source systems. My work is anchored in **cost-aware LLM architecture**, **bilingual Arabic/English products**, and **evidence-based AI tooling**.
+
+- 🔭 I’m currently building **[ARSENAL](https://github.com/faresrafat3/arsenal-unified-master-pipeline)**, a master pipeline unifying 10 top-tier LLM agent systems.
+- 🌱 I’m actively researching **Cognitive Economy** — when to spend premium inference vs. cheaper tiers.
+- 👯 I’m open to collaboration on **AI agent evaluation**, **open-source audits**, and **Semitic NLP**.
+- 💬 Ask me about: `LLM Agents`, `RAG`, `Prompt Engineering`, `Next.js`, and `FastAPI`.
 
 ---
 
-## In 30 seconds
+### 🏆 Featured Projects
 
-| | |
-|---|---|
-| **Who** | Full-stack + AI engineer building **agent pipelines**, **RAG apps**, and **evidence-based AI tooling** |
-| **Best at** | Turning papers into auditable systems · bilingual Arabic/English products · cost-aware LLM architecture |
-| **Hire me for** | AI integration (chatbots, RAG, agents) · Next.js SaaS · research-to-prototype packages |
-| **Collaborate on** | LLM agent evaluation · prompt/architecture extraction · Semitic NLP |
-
----
-
-## Featured projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [Epistemic Forge](https://github.com/faresrafat3/epistemic-forge)
-**Product** · Python · MIT  
-
-Claim lattices for research, philosophy, freelancing & Kaggle — with a **Toulmin-anchored benchmark** (+~199% overall quality vs baseline Q&A on 10 cases).
-
-`agents` · `research` · `benchmark` · `CLI`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ [ARSENAL](https://github.com/faresrafat3/arsenal-unified-master-pipeline)
-**Architecture** · L0–L6 master pipeline  
-
-Unifies **10** agent systems (APE, OPRO, ToT, LATS, Reflexion, Voyager, Meta-Prompting, Self-Refine, Prompt Report, AI Scientist v2) into one operational design.
-
-`llm-agents` · `prompt-engineering` · `mermaid`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💬 [RAG SaaS Starter](https://github.com/faresrafat3/rag-saas-starter)
-**Product** · Next.js · TypeScript · MIT  
-
-Production-ready RAG chatbot starter with **Arabic/RTL**, multi-document chat, streaming, and modern SaaS stack.
-
-`nextjs` · `rag` · `arabic` · `saas`
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 [AI Cost Library](https://github.com/faresrafat3/ai-cost-library)
-**Knowledge base** · Bilingual AR/EN  
-
-60+ AI cost-reduction techniques classified by **evidence strength** — FinOps for LLM inference & training.
-
-`finops` · `llm` · `arabic` · `cost-optimization`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧬 [GENESIS](https://github.com/faresrafat3/GENESIS)
-**Research prototype** · Python  
-
-Harness-first cognitive layer testing **concept formation** vs retrieval-only, and **cognitive economy** (tiered routing) vs “always use the biggest model.”
-
-`agents` · `evaluation` · `research`
-
-</td>
-<td width="50%" valign="top">
-
-### 📦 [LLM Agent Extractions](https://github.com/faresrafat3/llm-agent-research-extractions)
-**Research archive** · 10 systems  
-
-Deep prompt/logic/flow/Mermaid extractions for Reflexion, Self-Refine, LATS, APE, OPRO, Voyager, ToT, Meta-Prompting, Prompt Report, AI Scientist v2.
-
-`prompt-extraction` · `open-source-audit`
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/faresrafat3/arsenal-unified-master-pipeline">⚙️ ARSENAL Pipeline</a></h4>
+      <p>Unifies 10 agent systems (APE, OPRO, ToT, LATS, Reflexion, Voyager, Meta-Prompting, Self-Refine, Prompt Report, AI Scientist v2) into one operational design.</p>
+      <img src="https://img.shields.io/badge/LLM_Agents-000000?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Architecture-0052CC?style=flat-square&logo=atlas&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/faresrafat3/ai-earth">🌍 AI Earth</a></h4>
+      <p>A self-evolving intelligence platform that aggregates verbatim research from SOTA papers and synthesizes them into a unified, resilient cognitive mesh.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Research-FF4F00?style=flat-square&logo=arxiv&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/faresrafat3/epistemic-forge">🧠 Epistemic Forge</a></h4>
+      <p>Claim lattices for research & philosophy with a Toulmin-anchored benchmark (+~199% quality vs baseline Q&A).</p>
+      <img src="https://img.shields.io/badge/Evaluation-4CAF50?style=flat-square&logo=testinglibrary&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/faresrafat3/rag-saas-starter">💬 RAG SaaS Starter</a></h4>
+      <p>Production-ready RAG chatbot starter with Arabic/RTL, multi-document chat, streaming, and modern SaaS stack.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## What I build
+### 🛠️ Tech Stack & Tools
 
-- **LLM agent systems** — routing, tree search, self-refine, memory, evaluation harnesses  
-- **RAG & chat products** — bilingual Arabic/English, production Next.js starters  
-- **Research-to-code pipelines** — paper extraction, claim packaging, reproducible benchmarks  
-- **Cost-aware AI** — technique libraries and economy-aware model routing  
-
-**Stack:** Python · TypeScript · Next.js · React · FastAPI · PostgreSQL · LangChain · OpenAI/OpenRouter · Docker · Vercel  
-
----
-
-## Research interests
-
-- LLM agent **architecture & evaluation** (scaffolding value, not just model scale)  
-- **Prompt optimization** and meta-prompt search (APE / OPRO family)  
-- **Cognitive economy** — when to spend premium inference vs cheaper tiers  
-- **Semitic NLP** — morphology, scattering, hybrid neural/symbolic routing ([scattering law](https://github.com/faresrafat3/semitic-scattering-law) · [router](https://github.com/faresrafat3/semitic-router))  
-- Argumentation structure for AI writing (**Toulmin** / claim lattices)
-
----
-
-## How I work
-
-- **Honesty over hype** — claims backed by code, tests, or cited evidence  
-- **Ship + document** — every serious repo has README, structure, and clear limits  
-- **Bilingual by default** when the audience is Arabic + international  
-- **Open attribution** for papers and upstream code  
-
----
-
-## Let’s work together
-
-I’m building a freelance practice (including **Mostaql**) and open to:
-
-1. **Freelance / contract** — RAG, agents, Next.js AI features, automation  
-2. **Collaboration** — agent eval, open-source audits, bilingual AI products  
-3. **Research discussion** — scaffolding, economy routing, Semitic NLP  
-
-→ GitHub: [@faresrafat3](https://github.com/faresrafat3)  
-→ Start a conversation via GitHub Issues on any public repo, or open a discussion on [epistemic-forge](https://github.com/faresrafat3/epistemic-forge) / [rag-saas-starter](https://github.com/faresrafat3/rag-saas-starter)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faresrafat3&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faresrafat3&layout=compact&hide_border=true" alt="Top Languages" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,fastapi,postgres,docker,vercel,github,vscode" />
+  </a>
 </p>
 
-<p align="center">
+- **AI/ML:** LangChain, OpenAI API, OpenRouter, LLM Agents (Routing, Tree Search, Self-Refine)
+- **Frontend:** TypeScript, Next.js, React, TailwindCSS (Bilingual & RTL expert)
+- **Backend/DB:** Python, FastAPI, PostgreSQL, SQLite
+- **DevOps:** Docker, Vercel, GitHub Actions
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faresrafat3&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Fares Rafat Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faresrafat3&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
   <em>Built with care — from Cairo to the open web.</em>
-</p>
+</div>
