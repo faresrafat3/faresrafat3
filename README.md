@@ -75,13 +75,27 @@ Full-stack & AI engineer focused on turning cutting-edge research into **auditab
       <img src="https://img.shields.io/badge/Research-FF4F00?style=flat-square&logo=arxiv&logoColor=white"/>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/faresrafat3/epistemic-forge">🔬 Epistemic Forge</a></h4>
+      <p>ARSENAL-powered epistemic research kit: claim lattices, dialectic briefs, freelance scopes, and Kaggle notebook spines (L0–L6 pipeline).</p>
+      <img src="https://img.shields.io/badge/Epistemics-0052CC?style=flat-square&logo=academia&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pipeline-FF6F00?style=flat-square&logo=kaggle&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/faresrafat3/GENESIS">🧬 GENESIS</a></h4>
+      <p>Diagnosing scaffolding bugs and measuring architecture value in LLM orchestration systems — empirical evaluation framework.</p>
+      <img src="https://img.shields.io/badge/Eval-2E7D32?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Architecture-0052CC?style=flat-square&logo=atlas&logoColor=white"/>
+    </td>
+  </tr>
 </table>
 
 ---
 
-### 📚 Paper Extractions (Open Knowledge Library)
-I maintain a clean, structured library of prompt/logic/flow + Mermaid graph extractions from landmark LLM papers — free to learn from:
-`AI Scientist v2` · `Self-Refine` · `Reflexion` · `ReAct` · `Toolformer` · `ToT` · `LATS` · `APE` · `OPRO` · `Voyager` · `Meta-Prompting` · `AutoGen` · `CAMEL` · `SciMON/SciPIP` · `STORM` · `GAPMAP` · `Prompt Report`
+### 📚 Paper Extractions
+Curated prompt/logic/flow + Mermaid graph extractions from landmark LLM papers.
+Active index: **[llm-agent-research-extractions](https://github.com/faresrafat3/llm-agent-research-extractions)** · standalone piece: **[Voyager](https://github.com/faresrafat3/voyager-full-extraction)**
 
 ---
 
