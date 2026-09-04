@@ -101,7 +101,7 @@ Active index: **[llm-agent-research-extractions](https://github.com/faresrafat3/
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faresrafat3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faresrafat3&theme=tokyonight" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faresrafat3&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
