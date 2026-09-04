@@ -50,7 +50,7 @@ Full-stack & AI engineer focused on turning cutting-edge research into **auditab
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/faresrafat3/ai-cost-library">📉 AI Cost Library</a></h4>
-      <p>Bilingual (AR/EN) evidence-based library of 60+ AI cost-reduction techniques, classified by evidence strength with MCDA scoring — no hype.</p>
+      <p>Bilingual (AR/EN) evidence-based library of 61 AI cost-reduction techniques, classified by evidence strength with MCDA scoring — no hype.</p>
       <img src="https://img.shields.io/badge/LLM_Cost-0052CC?style=flat-square&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/Evidence_Based-4CAF50?style=flat-square&logo=acclaim&logoColor=white"/>
     </td>
