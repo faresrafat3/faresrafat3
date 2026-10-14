@@ -66,8 +66,8 @@ it automatically. Everything below is a version of that.
 
 | Project | What it is |
 |---|---|
-| **[agent-handoff](https://github.com/faresrafat3/agent-handoff)** · Python | Typed handoffs + validator for long agent sessions. 60 tests, no deps, installs in 3 commands. |
-| **[colony-kernel](https://github.com/faresrafat3/colony-kernel)** · TypeScript | Deterministic mission-control for agent colonies: 22-stage state machine, content-addressed approvals, 67 offline tests. |
+| **[agent-handoff](https://github.com/faresrafat3/agent-handoff)** · Python | Typed handoffs + validator for long agent sessions. 82 tests, no deps, installs in 3 commands. |
+| **[colony-kernel](https://github.com/faresrafat3/colony-kernel)** · TypeScript | Deterministic mission-control for agent colonies: 22-stage state machine, content-addressed approvals, 130 offline tests. |
 | **[crew-research-council](https://github.com/faresrafat3/crew-research-council)** · Python | Multi-agent research governance: blackboard, veto pipeline, role write-rights. Built so one agent's confident answer can't pass as a finding. |
 | **[knowledge-factory](https://github.com/faresrafat3/knowledge-factory)** · Python | Compresses scattered material under a written method; 4,770-row index with one-command re-verification. |
 | **[continuum](https://github.com/faresrafat3/continuum)** | Session-sealing protocol for agent harnesses; contains the portable standard above. |
