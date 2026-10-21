@@ -34,6 +34,19 @@ $ agent-handoff doctor --strict
 
 ---
 
+
+**[harness-router](https://github.com/faresrafat3/harness-router)** · Python, zero dependencies
+
+One interface for all your coding agents. Routes tasks across kilo, opencode2,
+dsh, cline, and cline-cloud by capability. Only top-10 models allowed.
+Free LLM credits consolidated through dsh.
+
+```sh
+git clone https://github.com/faresrafat3/harness-router
+cd harness-router && python3 verify.py
+```
+
+---
 ## The three ways agent work goes wrong
 
 I keep coming back to these, and every engagement starts here:
