@@ -75,6 +75,22 @@ it automatically. Everything below is a version of that.
 
 ---
 
+## Open source
+
+I contribute to established Python projects — small, reviewable changes against a
+linked issue, in the shape the maintainer asked for.
+
+| Project | Contribution |
+|---|---|
+| **[hukkin/tomli](https://github.com/hukkin/tomli)** | [#310](https://github.com/hukkin/tomli/pull/310) — documented that implementation limits surface as a different exception than invalid TOML, using the wording a reviewer specified. |
+| **[hukkin/mdformat](https://github.com/hukkin/mdformat)** | [#597](https://github.com/hukkin/mdformat/pull/597) — render until the output stops changing, so `--check` passes on a file mdformat just wrote. |
+
+Before I open a pull request: the issue exists, no one else has claimed it, the diff is
+the smallest thing that fixes the reported behaviour, the project's own checks pass, and
+the description says what I verified and what I did not.
+
+---
+
 ## Selected work
 
 | Project | What it is |
